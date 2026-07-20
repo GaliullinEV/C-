@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C-\\ListNode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D242DFC-CDAE-459B-AF99-5C33900BD851}|ListNode.vcxproj|H:\\C-\\ListNode\\inlet.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D242DFC-CDAE-459B-AF99-5C33900BD851}|ListNode.vcxproj|solutionrelative:inlet.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D242DFC-CDAE-459B-AF99-5C33900BD851}|ListNode.vcxproj|H:\\C-\\ListNode\\ListNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D242DFC-CDAE-459B-AF99-5C33900BD851}|ListNode.vcxproj|solutionrelative:ListNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inlet.in",
+              "DocumentMoniker": "H:\\C-\\ListNode\\inlet.in",
+              "RelativeDocumentMoniker": "inlet.in",
+              "ToolTip": "H:\\C-\\ListNode\\inlet.in",
+              "RelativeToolTip": "inlet.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T17:21:01.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListNode.cpp",
+              "DocumentMoniker": "H:\\C-\\ListNode\\ListNode.cpp",
+              "RelativeDocumentMoniker": "ListNode.cpp",
+              "ToolTip": "H:\\C-\\ListNode\\ListNode.cpp",
+              "RelativeToolTip": "ListNode.cpp",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T17:51:54.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
